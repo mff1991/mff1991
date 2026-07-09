@@ -101,9 +101,7 @@ I have been able to work as a computer technician in companies of different sect
 </p>
 ### 📂 Projectes / Proyectos / Projects
 
-> *Aquí pots llistar els teus projectes o scripts de GitHub reemplaçant els enllaços `#` pels teus repositoris reals.*
-
-* **📁 [Automation-Scripts](https://github.com/EL_TEU_USUARI/#)**
-  * **CAT:** Scripts de Bash i PowerShell per a l'automatització de tasques i còpies de seguretat.
-  * **ESP:** Scripts de Bash y PowerShell para la automatización de tareas y copias de seguridad.
-  * **ENG:** Bash and PowerShell scripts for task automation and backups.
+* **📁 [Plugin Wordpress  resultats competetició club esportiu  (https://github.com/EL_TEU_USUARI/#)**
+  * **CAT:** Plugin de Wordpress  per publicar l'agenda  de partits i resultats d'un club esportiu .
+  * **ESP:** Plugin de WordPress para publicar el calendario de partidos y los resultados de un club deportivo.
+  * **ENG:** WordPress plugin to publish a sports club's fixture list and results..
