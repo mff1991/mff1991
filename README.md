@@ -99,3 +99,11 @@ I have been able to work as a computer technician in companies of different sect
   <!-- MySQL -->
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
+### 📂 Projectes / Proyectos / Projects
+
+> *Aquí pots llistar els teus projectes o scripts de GitHub reemplaçant els enllaços `#` pels teus repositoris reals.*
+
+* **📁 [Automation-Scripts](https://github.com/EL_TEU_USUARI/#)**
+  * **CAT:** Scripts de Bash i PowerShell per a l'automatització de tasques i còpies de seguretat.
+  * **ESP:** Scripts de Bash y PowerShell para la automatización de tareas y copias de seguridad.
+  * **ENG:** Bash and PowerShell scripts for task automation and backups.
