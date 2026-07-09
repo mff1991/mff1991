@@ -99,7 +99,7 @@ I have been able to work as a computer technician in companies of different sect
   <!-- MySQL -->
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
-### 📂 Projectes / Proyectos / Projects
+ 📂 Projectes / Proyectos / Projects
 
 **📁 [Plugin Wordpress agenda i resultats de un  club esportiu  ()**
   * **CAT:** Plugin de Wordpress  per publicar l'agenda  de partits i resultats d'un club esportiu .
