@@ -35,17 +35,57 @@ He podido desarrollar labores de técnico informático en empresas de diferentes
 ---
 
 ### 🧰 Languages and Tools:
+
+#### 🖥️ Systems & DevOps
 <p align="left">
+  <!-- Windows Server -->
+  <img src="https://img.shields.io/badge/Windows%20Server-%230078D6.svg?style=for-the-badge&logo=windows-server&logoColor=white" alt="Windows Server" />
   <!-- Linux -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <!-- Docker -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
-  <!-- Bash / Shell -->
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a>
-  <!-- PHP -->
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <!-- Bash -->
+  <img src="https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
   <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+#### 🌐 Networking & Hardware
+<p align="left">
+  <!-- Cisco -->
+  <img src="https://img.shields.io/badge/Cisco-11A5D4?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+  <!-- Ubiquiti -->
+  <img src="https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white" alt="Ubiquiti" />
+  <!-- MikroTik -->
+  <img src="https://img.shields.io/badge/MikroTik-305C7C?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik" />
+  <!-- Zyxel -->
+  <img src="https://img.shields.io/badge/Zyxel-009A44?style=for-the-badge&logo=zyxel&logoColor=white" alt="Zyxel" />
+</p>
+
+#### 📞 VoIP & Telephony (PBX)
+<p align="left">
+  <!-- FreePBX -->
+  <img src="https://img.shields.io/badge/FreePBX-4A90E2?style=for-the-badge&logo=asterisk&logoColor=white" alt="FreePBX" />
+  <!-- Issabel -->
+  <img src="https://img.shields.io/badge/Issabel-7ED321?style=for-the-badge&logo=asterisk&logoColor=white" alt="Issabel" />
+  <!-- Wildix -->
+  <img src="https://img.shields.io/badge/Wildix-D0021B?style=for-the-badge&logo=telecom&logoColor=white" alt="Wildix" />
+</p>
+
+#### 💻 Development & Databases
+<p align="left">
+  <!-- HTML5 -->
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <!-- CSS3 -->
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <!-- Bootstrap -->
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <!-- PHP -->
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <!-- WordPress -->
+  <img src="https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <!-- MySQL -->
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
