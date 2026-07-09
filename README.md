@@ -46,7 +46,7 @@ I have been able to work as a computer technician in companies of different sect
 
 ### 📂 Projectes / Proyectos / Projects
 
-* **📁 [Plugin Wordpress agenda i resultats de un club esportiu](https://github.com/EL_TEU_USUARI/#)**
+* **📁 [Plugin Wordpress agenda i resultats de un club esportiu](https://github.com/mff1991/wp-sports-agenda)**
   * **CAT:** Plugin de Wordpress per publicar l'agenda de partits i resultats d'un club esportiu .
   * **ESP:** Plugin de WordPress para publicar el calendario de partidos y los resultados de un club deportivo..
   * **ENG:** WordPress plugin to publish a sports club's fixture list and results..
