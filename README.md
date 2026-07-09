@@ -44,6 +44,17 @@ I have been able to work as a computer technician in companies of different sect
 
 ---
 
+### 📂 Projectes / Proyectos / Projects
+
+* **📁 [Plugin Wordpress agenda i resultats de un club esportiu](https://github.com/EL_TEU_USUARI/#)**
+  * **CAT:** Plugin de Wordpress per publicar l'agenda de partits i resultats d'un club esportiu .
+  * **ESP:** Plugin de WordPress para publicar el calendario de partidos y los resultados de un club deportivo..
+  * **ENG:** WordPress plugin to publish a sports club's fixture list and results..
+
+
+
+---
+
 ### 🧰 Languages and Tools:
 
 #### 🖥️ Systems & DevOps
@@ -99,9 +110,3 @@ I have been able to work as a computer technician in companies of different sect
   <!-- MySQL -->
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
- 📂 Projectes / Proyectos / Projects
-
-**📁 [Plugin Wordpress agenda i resultats de un  club esportiu  ()**
-  * **CAT:** Plugin de Wordpress  per publicar l'agenda  de partits i resultats d'un club esportiu .
-  * **ESP:** Plugin de WordPress para publicar el calendario de partidos y los resultados de un club deportivo.
-  * **ENG:** WordPress plugin to publish a sports club's fixture list and results..
