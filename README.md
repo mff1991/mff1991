@@ -10,10 +10,10 @@ A resolute, versatile, and flexible professional with experience analyzing and s
 
 ---
 
-### 🌐 Idiomes / Idiomas
+### 🌐 Presentació / Presentación / About me
 
 <details>
-<summary><b>Català (Descripció en català)</b></summary>
+<summary><b>Català</b></summary>
 <p>
 
 Sóc tècnic en sistemes informàtics i xarxes. He realitzat diversos cursos de formació d'informàtica. Durant la trajectòria professional he adquirit i millorat habilitats com ser resolutiu analitzant i resolent les incidències informàtiques, flexibilitat a l'hora d'adaptar-me a les necessitats de l'empresa i polivalent. 
@@ -23,12 +23,22 @@ He pogut desenvolupar tasques de tècnic informàtic en empreses de diferents se
 </details>
 
 <details>
-<summary><b>Español (Descripción en castellano)</b></summary>
+<summary><b>Español</b></summary>
 <p>
 
 Soy técnico en sistemas informáticos y redes. He realizado varios cursos de formación de informática. Durante la trayectoria profesional he adquirido y mejorado habilidades como ser resolutivo analizando y resolviendo las incidencias informáticas, flexibilidad a la hora de adaptarme a las necesidades de la empresa y polivalente.
 
 He podido desarrollar labores de técnico informático en empresas de diferentes sectores donde he mejorado y adquirido conocimientos como técnico de mantenimiento de hardware, mantenimiento y gestión de redes, administrador de sistemas y helpdesk.
+</p>
+</details>
+
+<details>
+<summary><b>English</b></summary>
+<p>
+
+I am a computer systems and network technician. I have taken several computer training courses. During my professional career I have acquired and improved skills such as being resolute in analyzing and solving computer incidents, flexibility in adapting to the needs of the company and versatility. 
+
+I have been able to work as a computer technician in companies of different sectors where I have improved and acquired knowledge as a hardware maintenance technician, network maintenance and management, system administrator and helpdesk.
 </p>
 </details>
 
