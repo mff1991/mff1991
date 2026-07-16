@@ -45,7 +45,7 @@ I have been able to work as a computer technician in companies of different sect
 ---
 
 ### 📂 Projectes / Proyectos / Projects
-* **📁 [Aplicatiu Web per gestió d'incidències informàtiques ITSM](https://github.com/mff1991/wp-sports-agenda) - Projecte en curs/Proyecto en curso/ Project in progress-**
+* **📁 [Aplicatiu Web per gestió d'incidències informàtiques ITSM](https://github.com/mff1991/wp-sports-agenda) - Projecte en curs/Proyecto en curso/ Project in progress-** [1/07/2026]
   * **CAT:** Aplicatiu web  per gestió d'incidències informàtiques 
   * **ESP:** Aplicativo web por gestión de incidencias informáticas.
   * **ENG:** Web application for managing computer incidents.
