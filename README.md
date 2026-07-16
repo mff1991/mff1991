@@ -45,16 +45,16 @@ I have been able to work as a computer technician in companies of different sect
 ---
 
 ### 📂 Projectes / Proyectos / Projects
+* **📁 [Aplicatiu Web per gestió d'incidències informàtiques ITSM](https://github.com/mff1991/wp-sports-agenda) - Projecte en curs/Proyecto en curso/ Project in progress-**
+  * **CAT:** Aplicatiu web  per gestió d'incidències informàtiques 
+  * **ESP:** Aplicativo web por gestión de incidencias informáticas.
+  * **ENG:** Web application for managing computer incidents.
 
 * **📁 [Plugin Wordpress agenda i resultats de un club esportiu](https://github.com/mff1991/wp-sports-agenda)**
   * **CAT:** Plugin de Wordpress per publicar l'agenda de partits i resultats d'un club esportiu .
   * **ESP:** Plugin de WordPress para publicar el calendario de partidos y los resultados de un club deportivo.
   * **ENG:** WordPress plugin to publish a sports club's fixture list and results.
 
-* **📁 [Aplicatiu Web per gestió d'incidències informàtiques ITSM](https://github.com/mff1991/wp-sports-agenda)**
-  * **CAT:** Aplicatiu web  per gestió d'incidències informàtiques 
-  * **ESP:** Aplicativo web por gestión de incidencias informáticas.
-  * **ENG:** Web application for managing computer incidents.
 
 ---
 
