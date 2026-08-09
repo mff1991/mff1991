@@ -45,7 +45,10 @@ I have been able to work as a computer technician in companies of different sect
 ---
 
 ### 📂 Projectes / Proyectos / Projects
-
+* **📁 [01/07/2026: GIROFAC plataforma ERP web gestió integral de negoci ](https://github.com/mff1991/GIROFAC)**
+  * **CAT:** GIROFAC plataforma ERP web orientada a la gestió integral de negoci sota una arquitectura modular i escalable .
+  * **ESP:** GIROFAC es una plataforma ERP basada en la web para la gestión integral de la empresa, desarrollada sobre una arquitectura modular y escalable.
+  * **ENG:** GIROFAC is a web-based ERP platform for comprehensive business management, built on a modular and scalable architecture..
 
 * **📁 [Plugin Wordpress agenda i resultats de un club esportiu](https://github.com/mff1991/wp-sports-agenda)**
   * **CAT:** Plugin de Wordpress per publicar l'agenda de partits i resultats d'un club esportiu .
